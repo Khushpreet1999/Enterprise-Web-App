@@ -1,0 +1,5 @@
+com/mycompany/week4_enterprise_lab/JAXRSConfiguration.class
+my/interfaces/IFruits.class
+com/models/Fruits.class
+com/mycompany/week4_enterprise_lab/resources/JavaEE8Resource.class
+my/services/FruitsImpl.class
